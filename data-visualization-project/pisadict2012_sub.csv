@@ -1,0 +1,92 @@
+﻿column,disc
+CNT,Country code 3-character
+OECD,OECD country
+NC,National Centre 6-digit Code
+STIDSTD,Student ID
+ST01Q01,International Grade
+ST02Q01,National Study Programme
+ST03Q01,Birth - Month
+ST03Q02,Birth -Year
+ST04Q01,Gender
+ST05Q01,Attend <ISCED 0>
+ST06Q01,Age at <ISCED 1>
+ESCS,"Index of economic, social and cultural status"
+EXAPPLM,Experience with Applied Mathematics Tasks at School
+EXPUREM,Experience with Pure Mathematics Tasks at School
+FAILMAT,Attributions to Failure in Mathematics
+FAMCON,Familiarity with Mathematical Concepts
+FAMCONC,Familiarity with Mathematical Concepts (Signal Detection  Adjusted)
+OPENPS,Openness for Problem Solving
+OUTHOURS,Out-of-School Study Time
+PARED,Highest parental education in years
+PERSEV,Perseverance
+AGE,Age of student
+INSTMOT,Instrumental Motivation for Mathematics
+INTMAT,Mathematics Interest
+MATBEH,Mathematics Behaviour
+MATHEFF,Mathematics Self-Efficacy
+MATINTFC,Mathematics Intentions
+MATWKETH,Mathematics Work Ethic
+SUBNORM,Subjective Norms in Mathematics
+PV1MATH,Plausible value 1 in mathematics
+PV2MATH,Plausible value 2 in mathematics
+PV3MATH,Plausible value 3 in mathematics
+PV4MATH,Plausible value 4 in mathematics
+PV5MATH,Plausible value 5 in mathematics
+PV1MACC,Plausible value 1 in content subscale of math - Change and Relationships
+PV2MACC,Plausible value 2 in content subscale of math - Change and Relationships
+PV3MACC,Plausible value 3 in content subscale of math - Change and Relationships
+PV4MACC,Plausible value 4 in content subscale of math - Change and Relationships
+PV5MACC,Plausible value 5 in content subscale of math - Change and Relationships
+PV1MACQ,Plausible value 1 in content subscale of math - Quantity
+PV2MACQ,Plausible value 2 in content subscale of math - Quantity
+PV3MACQ,Plausible value 3 in content subscale of math - Quantity
+PV4MACQ,Plausible value 4 in content subscale of math - Quantity
+PV5MACQ,Plausible value 5 in content subscale of math - Quantity
+PV1MACS,Plausible value 1 in content subscale of math - Space and Shape
+PV2MACS,Plausible value 2 in content subscale of math - Space and Shape
+PV3MACS,Plausible value 3 in content subscale of math - Space and Shape
+PV4MACS,Plausible value 4 in content subscale of math - Space and Shape
+PV5MACS,Plausible value 5 in content subscale of math - Space and Shape
+PV1MACU,Plausible value 1 in content subscale of math - Uncertainty and Data
+PV2MACU,Plausible value 2 in content subscale of math - Uncertainty and Data
+PV3MACU,Plausible value 3 in content subscale of math - Uncertainty and Data
+PV4MACU,Plausible value 4 in content subscale of math - Uncertainty and Data
+PV5MACU,Plausible value 5 in content subscale of math - Uncertainty and Data
+PV1MAPE,Plausible value 1 in process subscale of math - Employ
+PV2MAPE,Plausible value 2 in process subscale of math - Employ
+PV3MAPE,Plausible value 3 in process subscale of math - Employ
+PV4MAPE,Plausible value 4 in process subscale of math - Employ
+PV5MAPE,Plausible value 5 in process subscale of math - Employ
+PV1MAPF,Plausible value 1 in process subscale of math - Formulate
+PV2MAPF,Plausible value 2 in process subscale of math - Formulate
+PV3MAPF,Plausible value 3 in process subscale of math - Formulate
+PV4MAPF,Plausible value 4 in process subscale of math - Formulate
+PV5MAPF,Plausible value 5 in process subscale of math - Formulate
+PV1MAPI,Plausible value 1 in process subscale of math - Interpret
+PV2MAPI,Plausible value 2 in process subscale of math - Interpret
+PV3MAPI,Plausible value 3 in process subscale of math - Interpret
+PV4MAPI,Plausible value 4 in process subscale of math - Interpret
+PV5MAPI,Plausible value 5 in process subscale of math - Interpret
+ST62Q01,Familiarity with Math Concepts - Exponential Function
+ST62Q02,Familiarity with Math Concepts - Divisor
+ST62Q03,Familiarity with Math Concepts - Quadratic Function
+ST62Q06,Familiarity with Math Concepts - Linear Equation
+ST62Q07,Familiarity with Math Concepts - Vectors
+ST62Q08,Familiarity with Math Concepts - Complex Number
+ST62Q09,Familiarity with Math Concepts - Rational Number
+ST62Q10,Familiarity with Math Concepts - Radicals
+ST62Q12,Familiarity with Math Concepts - Polygon
+ST62Q15,Familiarity with Math Concepts - Congruent Figure
+ST62Q16,Familiarity with Math Concepts - Cosine
+ST62Q17,Familiarity with Math Concepts - Arithmetic Mean
+ST62Q19,Familiarity with Math Concepts - Probability
+ST46Q01,Math Work Ethic - Homework Completed in Time
+ST46Q02,Math Work Ethic - Work Hard on Homework
+ST46Q03,Math Work Ethic - Prepared for Exams
+ST46Q04,Math Work Ethic - Study Hard for Quizzes
+ST46Q05,Math Work Ethic - Study Until I Understand Everything
+ST46Q06,Math Work Ethic - Pay Attention in Classes
+ST46Q07,Math Work Ethic - Listen in Classes
+ST46Q08,Math Work Ethic - Avoid Distractions When Studying
+ST46Q09,Math Work Ethic - Keep Work Organized
