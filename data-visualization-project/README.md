@@ -19,7 +19,7 @@ Then, I present students math grade grouped by both variable Familiarity level a
 
 
 ## Resources:
-- Data Visualization part at Udacity nano degree course
+- Lessons at Data Visualization part of Udacity nano degree course
 -	https://towardsdatascience.com/why-and-how-to-use-pandas-with-large-data-9594dda2ea4c
 
 
