@@ -17,9 +17,10 @@ For the six countries I chose, I found that students from Isreal has the highest
 In my presentation, I focused to present the most familiar math concepts, correlation between math grades and three variables (Familiarity, study time after school, and ESCS (Index of economic, social and cultural status). Also, I chose to present the correlation between Familiarity and both study time after school and ESCS. 
 Then, I present students math grade grouped by both variable Familiarity level and ESCS.  Also, I present Math grade grouped by gender and familiarity degree in math in another plot. Finally, I plot math grades by (familiarity degree, OUTHOURS, ESCS) for the selected six countries 
 
-Resources: 
-•	Data Visualization part at Udacity nano degree course
-•	https://towardsdatascience.com/why-and-how-to-use-pandas-with-large-data-9594dda2ea4c
+
+## Resources:
+- Data Visualization part at Udacity nano degree course
+-	https://towardsdatascience.com/why-and-how-to-use-pandas-with-large-data-9594dda2ea4c
 
 
 
