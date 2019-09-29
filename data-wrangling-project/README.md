@@ -9,9 +9,9 @@ In gathering data procedure, we brought data from two resources as the following
 
 From Udacity server, we download `twitter-archive-enhanced.csv` manually and import the data by using read_csv function. Then, by using python request library, we download programmatically image prediction data from Udacity server and save data in `image_predictions.tsv`. Finally, we use Tweepy library to retrieve more additional data, tweet’s retweet and favorite counts. Data from twitter API will be stored in `tweet_jason.txt` file.
 
-### Quality Issues:
+## Quality Issues:
 
-*_twitter archived_ data:*
+#### *_twitter archived_ data:*
 - Missing values in (reply to status id, reply to user id, retweeted status id, retweeted status user id, retweeted status timestamp)
 - Missing dogs stages (Some tweets don't have any dog stage, All four columns have None value doggo,floofer, pupper, puppo)
 - Missing dogs names (Some dogs have no name, the dog name value of this tweets is None)
@@ -19,14 +19,14 @@ From Udacity server, we download `twitter-archive-enhanced.csv` manually and imp
 - You only want original ratings, so we don't want the tweets that replied to another tweet.
 - Errorneous datatypes (tweet_id,in_reply_to_status_id, in_reply_to_user_id,retweeted_status_id, retweeted_status_user_id, timestamp, rating_numerator,rating_denominator)
 
-*_image prediction_ data:*
+#### *_image prediction_ data:*
 - Missing data for the dog preed pridiction
 
 
-*_additional twitter_ data:*
+#### *_additional twitter_ data:*
 - Some tweets have been deleted. ex. missing API data
 
-### Tidiness Issues:
+## Tidiness Issues:
 
 - In twitter archived data table, The doggo, floofer, pupper, and puppo should all be in one column
 - Merge three data sets twitter archived, image prediction and additional twitter data into one dataframe
